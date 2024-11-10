@@ -226,54 +226,7 @@ pip install pillow pystray keyboard pyautogui pywin32
 
 ## license
 
-*information about the project's license will be added here.*
-
-**example:**
-
-this project is licensed under the mit license. see the [license](LICENSE) file for details.
-
-## contributing
-
-*guidelines for contributing to the project will be provided here.*
-
-**example:**
-
-we welcome contributions from the community! to contribute to opico draw, please follow these steps:
-
-1. **fork the repository:**
-   - click the "fork" button at the top right of the repository page.
-
-2. **clone your fork:**
-
-   ```bash
-   git clone https://github.com/ol1fer/opicodraw.git
-   ```
-
-3. **create a new branch:**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **make your changes:**
-   - implement your feature or bug fix.
-
-5. **commit your changes:**
-
-   ```bash
-   git commit -m "add your descriptive commit message here"
-   ```
-
-6. **push to your fork:**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **create a pull request:**
-   - navigate to the original repository and create a pull request from your fork.
-
-**please ensure that your contributions adhere to the project's coding standards and include appropriate tests and documentation.**
+plase see license.md for more info.
 
 ## faq
 
