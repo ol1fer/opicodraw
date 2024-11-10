@@ -224,6 +224,9 @@ class OpicoDrawApp:
 
             self.drawing_window.bind("<Control-Shift-Key-S>", self.save_as_file)
 
+            self.drawing_window.bind("<Control-n>", self.clear_canvas)      # Added binding
+            self.drawing_window.bind("<Control-N>", self.clear_canvas)      # Added binding
+
             self.drawing_window.bind("<Button-3>", self.toggle_mini_settings)
 
             # Key bindings for undo and redo
@@ -774,6 +777,8 @@ class OpicoDrawApp:
 
         except ValueError:
             messagebox.showerror("Invalid Input", "Please enter valid integer values for width, height, pen size, and smoothing factor.")
+    def clear_canvas(self, event=None):
+        self.create_image()
 
 
 # Add the function to remove maximize and minimize buttons
