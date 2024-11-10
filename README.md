@@ -240,11 +240,11 @@ plase see license.md for more info.
 
 **q3: can i change the default save directory for my drawings?**
 
-*a:* yes. navigate to the settings window, and under the "advanced settings" section, you can specify your preferred save directory.
+*a:* yes. save with one of the hotkeys, like ctrl + s then save a drawing somewhere. this will now be the default directory.
 
 **q4: i'm experiencing lag when drawing. how can i improve performance?**
 
-*a:* reducing the canvas size or lowering the smoothing factor in the settings may help improve performance.
+*a:* reducing the canvas size or lowering the smoothing factor in the settings may help improve performance. it's extremely low impact on your pc, especially when not actively drawing. if you get performance issues you may need a new pc lol
 
 **q5: is opico draw available on macos or linux?**
 
