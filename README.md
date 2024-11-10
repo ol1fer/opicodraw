@@ -1,6 +1,6 @@
 # opico draw
 
-**opico draw** is a lightweight, popup drawing application designed for quick and seamless integration into your workflow. inspired by picochat, opico draw runs discreetly in the background, allowing you to instantly access a drawing window via a customizable hotkey. whether you're doodling, annotating, or creating quick sketches, opico draw makes it easy to capture your ideas and paste them directly into applications like discord.
+**opico draw** is a lightweight, popup drawing application designed for quick and seamless integration into your workflow. inspired by pictochat, opico draw runs discreetly in the background, allowing you to instantly access a drawing window via a customizable hotkey. whether you're doodling, annotating, or creating quick sketches, opico draw makes it easy to capture your ideas and paste them directly into applications like discord.
 
 ## table of contents
 
