@@ -12,7 +12,6 @@
 - [default values](#default-values)
 - [dependencies](#dependencies)
 - [license](#license)
-- [contributing](#contributing)
 - [faq](#faq)
 - [contact](#contact)
 
@@ -249,3 +248,7 @@ plase see license.md for more info.
 **q5: is opico draw available on macos or linux?**
 
 *a:* no
+
+## contact
+
+you can get me on discord, my username is ol1fer
