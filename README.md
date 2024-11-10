@@ -134,16 +134,17 @@ to have opico draw start automatically when you log into windows, you can manual
 
 | action                           | shortcut                           |
 |----------------------------------|------------------------------------|
-| open drawing window              | `alt + shift + q`                  |
+| open drawing window              | `alt + shift + q` (configurable)   |
+| new canvas/clear current canvas  | `ctrl + n`                         |
 | open save dialog                 | `ctrl + s`                         |
 | open alternate save dialog       | `ctrl + shift + s`                 |
 | open another save dialog         | `ctrl + alt + s`                   |
 | copy drawing to clipboard        | `ctrl + c`                         |
 | undo last action                 | `ctrl + z`                         |
 | redo last action                 | `ctrl + shift + z`                 |
-| redo last action (alternative)    | `ctrl + y`                         |
+| redo last action (alternative)    | `ctrl + y`                        |
 | open settings                    | system tray > settings             |
-| open drawing window via tray     | system tray > open opico draw       |
+| open drawing window via tray     | system tray > open opico draw      |
 
 *all shortcuts are configurable through the settings window.*
 
