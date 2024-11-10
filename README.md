@@ -86,8 +86,8 @@ you can download the latest release from the [releases page](https://github.com/
 to have opico draw start automatically when you log into windows, you can manually add the program or a shortcut to the startup folder:
 
 1. **locate the executable or create a shortcut:**
-   - navigate to the directory containing `opicodraw.py`.
-   - if you prefer, create a shortcut to `opicodraw.py` by right-clicking the file and selecting **create shortcut**.
+   - navigate to the directory containing `opicodraw.py/opicodraw.exe`.
+   - if you prefer, create a shortcut to `opicodraw.py/opicodraw.exe` by right-clicking the file and selecting **create shortcut**.
 
 2. **copy to startup folder:**
 
@@ -98,7 +98,7 @@ to have opico draw start automatically when you log into windows, you can manual
      C:\Users\oliver\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
      ```
 
-   - paste the `opicodraw.py` file or its shortcut into this folder.
+   - paste the `opicodraw.py/opicodraw.exe` file or its shortcut into this folder.
 
    opico draw will now launch automatically each time you start your computer.
 
