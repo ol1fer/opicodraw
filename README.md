@@ -30,6 +30,14 @@
 
 ## installation
 
+### compiling and downloading executables
+
+opico draw can be compiled with **pyinstaller** to create a standalone executable. a precompiled version (`exe`) is also available, compressed with **upx** in a virtual environment for optimal file size.
+
+### downloading opico draw
+
+you can download the latest release from the [releases page](https://github.com/ol1fer/opicodraw/releases) or clone the source code to build it yourself.
+
 ### prerequisites
 
 - **operating system:** windows (due to the use of `win32clipboard` and specific window style modifications).
