@@ -32,7 +32,13 @@
 
 ### compiling and downloading executables
 
-opico draw can be compiled with **pyinstaller** to create a standalone executable. a precompiled version (`exe`) is also available, compressed with **upx** in a virtual environment for optimal file size.
+opico draw can be compiled with **pyinstaller** to create a standalone executable. use the following command:
+
+```bash
+pyinstaller --onefile --noconsole --icon=opicodraw.ico --add-data "opicodraw.ico;." --upx-dir "C:\UPX\DIRECTORY\LOCATION" --strip --exclude-module pyinstaller --exclude-module altgraph --exclude-module pyinstaller_hooks_contrib --exclude-module pefile --exclude-module pywin32_ctypes --exclude-module packaging opicodraw.py
+```
+
+make sure that `opicodraw.py` is in the same folder or specify its location in the command. a precompiled version (`exe`) is also available, compressed with **upx** in a virtual environment for optimal file size.
 
 ### downloading opico draw
 
