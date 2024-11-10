@@ -40,7 +40,7 @@
 1. **clone the repository:**
 
    ```bash
-   git clone https://github.com/CHANGEME/opicodraw.git
+   git clone https://github.com/ol1fer/opicodraw.git
    ```
 
 2. **navigate to the project directory:**
@@ -232,7 +232,7 @@ we welcome contributions from the community! to contribute to opico draw, please
 2. **clone your fork:**
 
    ```bash
-   git clone https://github.com/CHANGEME/opicodraw.git
+   git clone https://github.com/ol1fer/opicodraw.git
    ```
 
 3. **create a new branch:**
