@@ -14,12 +14,12 @@ VSVersionInfo(
             StringTable(
                 u'040904B0',
                 [StringStruct(u'CompanyName', u'ol1fer'),
-                 StringStruct(u'FileDescription', u'opicodraw'),
+                 StringStruct(u'FileDescription', u'a hotkey based drawing app for quick drawings to be copy and pasted.'),
                  StringStruct(u'FileVersion', u'1.2'),
                  StringStruct(u'InternalName', u'opicodraw.exe'),
                  StringStruct(u'LegalCopyright', u'©2024 ol1fer'),
                  StringStruct(u'OriginalFilename', u'opicodraw.exe'),
-                 StringStruct(u'ProductName', u'OpicoDraw'),
+                 StringStruct(u'ProductName', u'opico draw'),
                  StringStruct(u'ProductVersion', u'1.2')])
         ]),
         VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
