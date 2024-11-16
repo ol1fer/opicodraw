@@ -94,7 +94,7 @@ to have opico draw start automatically when you log into windows, you can manual
    
    - **path:**
      ```
-     C:\Users\oliver\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+     %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
      ```
 
    - paste the `opicodraw.py/opicodraw.exe` file or its shortcut into this folder.
