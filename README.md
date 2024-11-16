@@ -184,7 +184,7 @@ opico draw offers several configuration options to tailor the application to you
 opico draw saves its configuration in a json file located at:
 
 ```
-%APPDATA%\opicodraw\config.json
+%appdata%\opicodraw\config.json
 ```
 
 this file stores all user-defined settings, ensuring that preferences persist across application restarts.
